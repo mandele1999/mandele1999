@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning / Deep Learning
 - 💞️ I’m looking to collaborate on exciting NLP Projects or anything interesting, I'm open
 - 📫 How to reach me via email frankmandele01@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His/Himself/Me/Myself/I
 - ⚡ Fun fact: I will get this in due time, let me think of one. 
 
 <!---
