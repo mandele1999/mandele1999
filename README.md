@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mandele1999
-- 👀 I’m interested in Data Science / ML work-projects
+- 👋 Hi, I’m Frank 
+- 👀 I’m interested in ML work-projects
 - 🌱 I’m currently learning Machine Learning / Deep Learning
 - 💞️ I’m looking to collaborate on exciting NLP Projects or any interesting Data Science-related projects, I'm open
 - 📫 How to reach me via email frankmandele01@gmail.com
