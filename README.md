@@ -1,6 +1,6 @@
-🌟 Welcome to My GitHub Profile!
+Welcome to My GitHub Profile!
 
-Hi there! 👋 I'm Frank, a data enthusiast passionate about bringing stories to life. Welcome to my repository of projects and ideas! 🚀
+Hi there! 👋 I'm Frank, a data enthusiast passionate about bringing stories to life. Welcome to my repository of projects and ideas!
 
 
 ## 💬 Connect With Me
